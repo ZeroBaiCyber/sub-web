@@ -223,7 +223,7 @@ export default {
 
             options: {
                 clientTypes: {
-                    //Clash: "clash",
+                    Clash: "clash",
                     ClashR: "clashr",
                     V2Ray: "v2ray",
                     SSR: "ssr",
